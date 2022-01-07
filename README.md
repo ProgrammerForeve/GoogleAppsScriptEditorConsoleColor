@@ -2,16 +2,16 @@
 Colors for Google Apps Script Editor. It works if text starts wits "[INFO]", "[DEBUG]", "[WARNING]" or "[ERROR]"
 
 
-<span style="background-color: LightCyan">"[INFO]"</span>
+<span style="background-color: LightCyan">"[INFO] Information message"</span>
 
 
-<p style="background-color: #FF1493">"[DEBUG]"</p>
+<span style="background-color: #FF1493">"[DEBUG] Message for debug"</span>
 
 
-<p style="background-color: #FFA500">"[WARNING]"</p>
+<span style="background-color: #FFA500">"[WARNING] Warning-level message"</span>
 
 
-<p style="background-color: #FF4500">"[ERROR]"</p>
+<span style="background-color: #FF4500">"[ERROR] Error message"</span>
 
 
 ![Screenshot](https://github.com/ProgrammerForeve/GoogleAppsScriptEditorConsoleColor/blob/main/media/Screenshot.png)
